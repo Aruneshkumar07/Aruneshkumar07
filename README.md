@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/QzUUp20V75sAAAAC/batman-im.gif" height="200"></img>
+<!--   <img src="https://media1.tenor.com/m/QzUUp20V75sAAAAC/batman-im.gif" height="200"></img> -->
 </div>
 <div align="center">
  <a href="https://www.linkedin.com/in/aruneshkumar-a-5378a7272/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></img></a> 
