@@ -3,13 +3,13 @@
 </div>
 <div align="center">
  <a href="https://www.linkedin.com/in/aruneshkumar-a-5378a7272/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></img></a> 
-   <a href=""></a><img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge"></img>
+   <a href="https://www.instagram.com/arunesh._.kumar/"></a><img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge"></img>
 </div>
 <div align="center">
-  <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <h1 align="left">About Me</h1>
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
     <p font-family="Times New Roman', Times, serif;" align="left">Hi there! I'm Aruneshkumar A, an aspiring Full Stack Developer currently on an exciting journey to mastering both front-end and back-end technologies. I have completed the front-end portion of my Full Stack Development course, where I gained hands-on experience with HTML, CSS, JavaScript, and ReactJS.</p>
-</h1>
+
 </div>
 <div align="center">
   <h1 align="left">Languages and Tools </h1>
