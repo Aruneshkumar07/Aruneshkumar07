@@ -3,7 +3,11 @@
 </div>
 <div align="center">
  <a href="https://www.linkedin.com/in/aruneshkumar-a-5378a7272/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></img></a> 
-   <a href="https://www.instagram.com/arunesh._.kumar/"></a><img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge"></img>
+   <a href="https://www.instagram.com/arunesh._.kumar/"><img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge"></img></a>
+    <a href="https://drive.google.com/file/d/1eBaNvJKJZhEDEL9rQNAqQRAV509K_VkG/view"><img src="https://img.shields.io/badge/Resume-blue?logo=resume&logoColor=white&style=for-the-badge"></img></a>
+</div>
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aruneshkumar07&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
   <h1 align="left">About Me</h1>
